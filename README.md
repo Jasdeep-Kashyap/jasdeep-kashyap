@@ -6,9 +6,9 @@
 - Motto **Forza Ferrari**
 
 - Projects:<br>
-<h1><a href="https://jasdeep.infinityfree.io/">Restaurant-Managment-System</a>
+<h1><a href="https://jasdeep.infinityfree.io/" style="color: white;">Restaurant-Managment-System</a>
 <img src="./RMS.png" />
-<a href="https://carbotrace.vercel.app/">CarboTrace</a>
+<a href="https://carbotrace.vercel.app/" style="color: white;">CarboTrace</a>
 <img src="./HACKOUT-26.png" />
 </h1>
 <h3 align="left">Connect with me:</h3>
