@@ -5,6 +5,12 @@
 
 - Motto **Forza Ferrari**
 
+- Projects:
+<a href="https://jasdeep.infinityfree.io/">Restaurant-Managment-System</a>
+<img src="./RMS.png" />
+<a href="https://carbotrace.vercel.app/">CarboTrace</a>
+<img src="./HACKOUT-26.png" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasdeep-kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasdeep-kashyap" height="30" width="40" /></a>
