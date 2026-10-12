@@ -1,10 +1,4 @@
 <h1 align="center">Hi, I'm Jasdeep Kashyap</h1>
-<h3 align="center">I'm really fond of tech</h3>
-
-- I’m currently learning **C++,Python,NLP**
-
-- Motto **Forza Ferrari**
-
 - Projects:<br>
 <h1><a href="https://jasdeep.infinityfree.io/" style="color: white;">Restaurant-Managment-System</a>
 <img src="./RMS.png" />
